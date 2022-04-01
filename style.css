@@ -1,0 +1,10 @@
+
+table, th, td{
+    border:2px solid black;
+    border-collapse: separate;
+}
+body{
+    border-style:double;
+    border-color: blue;
+    background-color:rgb(177, 210, 241);
+}
